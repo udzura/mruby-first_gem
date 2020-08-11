@@ -1,0 +1,7 @@
+name: mruby-first_gem
+description: FirstGem class
+author: Uchio Kondo
+website: https://github.com/udzura/mruby-first_gem
+protocol: git
+repository: https://github.com/udzura/mruby-first_gem.git
+license: MIT
